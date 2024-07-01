@@ -1,0 +1,70 @@
+.btn{
+  height: 100px;
+  width: 100px;
+  background-color:yellow;
+  border: none;
+}
+.container{
+  height: 350px;
+  width: 350px;
+  background-color: aquamarine;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+} 
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 100%;
+  width: 50%;
+  border: 2px solid black;
+}
+h1{
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#contwin{
+  font-size: 20px;
+  text-align: center;
+
+}
+.msg-win{
+  display: none;
+}
+.resetbtn{
+  height: 40px;
+  width: 80px; 
+  border-radius: 10px;
+  border: 2px solid black;
+  text-align: center;
+
+}
+
+.jig{
+display: flex;
+height: 580px;
+/* justify-content: space-evenly;
+align-items: center; */
+  background-image: linear-gradient(to right,#F896D8, #EDF67D);
+}
+.main2{
+  height: 100%;
+  width: 50%;
+  border: 2px solid black;
+
+}
+.rule{
+  border: 2px solid black;
+  border-radius: 40px ;
+  margin-top: 50px;
+  background-color:lightgreen;
+}
+.resetbtn{
+  text-align: center;
+}
+.caus{
+  margin-top: 40px;
+  text-align: center;
+}
